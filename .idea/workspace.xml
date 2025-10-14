@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe02b64c-7753-45ee-8e4f-502eb1330b4f" name="Changes" comment="" />
+    <list default="true" id="fe02b64c-7753-45ee-8e4f-502eb1330b4f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/НМЦК.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ca5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifc_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Прайс ДНВ 2025 (13 проектов).xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Смета_дома.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,9 +43,12 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;Python.app.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;update&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/150/PycharmProjects/monitoring&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -65,7 +81,16 @@
       <workItem from="1747980426892" duration="218000" />
       <workItem from="1747980657080" duration="1084000" />
       <workItem from="1747981825468" duration="5846000" />
-      <workItem from="1747989461296" duration="333000" />
+      <workItem from="1747989461296" duration="6015000" />
+      <workItem from="1748593974681" duration="14000" />
+      <workItem from="1749457596765" duration="8973000" />
+      <workItem from="1750432026197" duration="16000" />
+      <workItem from="1750931597546" duration="35000" />
+      <workItem from="1759933596412" duration="1949000" />
+      <workItem from="1759994381670" duration="3892000" />
+      <workItem from="1760012537461" duration="7352000" />
+      <workItem from="1760077249886" duration="15599000" />
+      <workItem from="1760421789499" duration="10267000" />
     </task>
     <servers />
   </component>
